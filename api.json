@@ -1,1 +1,4 @@
-'{Indq_Status:Yes, Description:yes}'
+{
+	"Indq_Status": "Yes",
+	"Description": "yes"
+}
